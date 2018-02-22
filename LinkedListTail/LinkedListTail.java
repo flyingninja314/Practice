@@ -1,4 +1,4 @@
-public class LinkedListTail {
+public class LinkedListTail implements LinkedListTailInterface {
   private class Node {
     int key;
     String value;
